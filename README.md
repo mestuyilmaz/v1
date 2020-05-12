@@ -1,3 +1,3 @@
-# mestuyilmaz.github.io
-My personal web page for now:
-https://mestuyilmaz.github.io
+# mestuyilmaz.github.io/v1/
+This is the old version of my personal website:
+https://mestuyilmaz.github.io/v1/
